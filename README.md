@@ -29,7 +29,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 16: Creación del modelo jugadores e implementación de búsqueda de todos los jugadores existentes. |
-| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
+| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. En este nuevo avance se realizo el modelo de la base de datos de los jugadores y la implementación de búsqueda de los jugadores que se inserten en la base de datos.  |
 |  Fecha de Carga | 15/11/23  |
 
 &nbsp;
