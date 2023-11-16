@@ -15,7 +15,7 @@
     "Sequelize",
     "Express"
   ],
-  "author": "Ing.Fanatico de las Monas Chinas. Elisama Arturo Calva Moreno",
+  "author": "Elisama Arturo Calva Moreno",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
